@@ -8,6 +8,7 @@ Group: 		Networking/Instant messaging
 Url: 		http://kopeteantispam.sourceforge.net
 BuildRoot: 	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: 	kdenetwork4-devel
+Requires:	kopete
 
 %description
 Kopete plugin, which allow to ignore spam messages by using simple
