@@ -5,7 +5,7 @@ Release: 	%mkrel 1
 Source0: 	http://download.sourceforge.net/sourceforge/kopeteantispam/%name-kde4-%version.tar.gz
 License: 	GPLv2+
 Group: 		Networking/Instant messaging
-Url: 		http://www.kde.org
+Url: 		http://kopeteantispam.sourceforge.net
 BuildRoot: 	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: 	kdenetwork4-devel
 
