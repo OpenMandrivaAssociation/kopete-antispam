@@ -1,7 +1,7 @@
 Summary:	Kopete Antispam
 Name:		kopete-antispam
 Version: 	0.4
-Release: 	%mkrel 1
+Release: 	%mkrel 2
 Source0: 	http://download.sourceforge.net/sourceforge/kopeteantispam/%name-kde4-%version.tar.gz
 License: 	GPLv2+
 Group: 		Networking/Instant messaging
