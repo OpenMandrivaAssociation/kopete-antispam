@@ -41,3 +41,20 @@ rm -rf %{buildroot}
 
 %clean
 rm -rf %{buildroot}
+
+
+%changelog
+* Sun Feb 14 2010 Sandro Cazzaniga <kharec@mandriva.org> 0.5-1mdv2010.1
++ Revision: 505899
+- new release
+
+  + Thierry Vignaud <tv@mandriva.org>
+    - rebuild
+
+* Sat Dec 27 2008 Funda Wang <fwang@mandriva.org> 0.4-1mdv2009.1
++ Revision: 319960
+- add requires
+- update url
+- import kopete-antispam
+
+
