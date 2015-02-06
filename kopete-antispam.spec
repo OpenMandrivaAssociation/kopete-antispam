@@ -1,7 +1,7 @@
 Summary:	Kopete antispam plugin
 Name:		kopete-antispam
 Version:	0.5
-Release:	2
+Release:	3
 License:	GPLv2+
 Group:		Networking/Instant messaging
 Url:		http://kopeteantispam.sourceforge.net
