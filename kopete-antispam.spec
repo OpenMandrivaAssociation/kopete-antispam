@@ -6,6 +6,7 @@ License:	GPLv2+
 Group:		Networking/Instant messaging
 Url:		https://kopeteantispam.sourceforge.net
 Source0:	http://download.sourceforge.net/sourceforge/kopeteantispam/%name-kde4-%version.tar.gz
+BuildRequires:	make
 BuildRequires:	kopete-devel
 Requires:	kopete
 
